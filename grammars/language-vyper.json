@@ -5,7 +5,7 @@
 	],
 	"version": "https://github.com/MagicStack/MagicPython/commit/b453f26ed856c9b16a053517c41207e3a72cc7d5",
 	"name": "MagicVyper",
-  "file types": [
+  "fileTypes": [
     "vy"
   ],
 	"scopeName": "source.vyper",
