@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-vyper",
+        "command": "language-vyper:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-vyper",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-vyper:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

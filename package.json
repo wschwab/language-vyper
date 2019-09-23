@@ -1,0 +1,18 @@
+{
+  "name": "language-vyper",
+  "main": "./lib/language-vyper",
+  "version": "0.0.0",
+  "description": "An attempt at Vyper support",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-vyper:toggle"
+  },
+  "repository": "https://github.com/atom/language-vyper",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
