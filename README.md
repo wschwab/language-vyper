@@ -5,4 +5,4 @@ This is an attempt to port an attempt to extend [MagicPython](https://github.com
 ### Sep 2019
 Updated and extended package to reflect the curernt state of Vyper
 
-![A screenshot of your package](https://imgur.com/a/GORuk9d)
+![](https://i.imgur.com/sgY7lJU.png)
